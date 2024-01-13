@@ -1,0 +1,12 @@
+.wrapper {
+    width: 300px;
+    height: 450px;
+}
+
+.wrapper img {
+    height: 100%;
+    width: 100%;
+
+    object-fit: contain;
+    object-position: center;
+}

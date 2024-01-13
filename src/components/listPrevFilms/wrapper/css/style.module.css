@@ -1,0 +1,18 @@
+.wrapper {
+    width: fit-content;
+    padding: 20px;
+}
+
+.preloader {
+    color: #fff;
+}
+
+.notFound {
+    color: #fff;
+}
+
+.addFavorites_active {
+    background: no-repeat url(../../../../images/icons/favorites_active.png) !important;
+    background-position: center !important;
+    background-size: 100% auto !important;
+}

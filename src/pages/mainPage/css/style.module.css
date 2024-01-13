@@ -1,0 +1,19 @@
+.wrapper {
+    height: 100%;
+    padding: 15px 20px;
+
+    background: #272832;
+}
+
+.header {
+    display: flex;
+    gap: 40px;
+
+    align-items: center;
+}
+
+.favor {
+    text-decoration: none;
+
+    color: #fff;
+}

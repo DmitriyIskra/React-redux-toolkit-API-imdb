@@ -1,0 +1,15 @@
+.loading {
+    color: #fff;
+}
+
+.wrapper {
+    display: flex;
+    gap: 20px;
+
+    background: #272832;
+}
+
+.wrTitle {
+    display: flex;
+    gap: 12px;
+}
